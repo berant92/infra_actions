@@ -54,4 +54,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: berant92/infra_actions:latest
+          tags: berant92/infra_action:latest
